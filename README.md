@@ -10,6 +10,8 @@ A basic initial setup of Node with TypeScript with a logger.
 
 - run `yarn` to install
 
+- copy `.env.example` to `.env`
+
 - run `yarn dev` or `yarn start` to get started
 
 ## Production

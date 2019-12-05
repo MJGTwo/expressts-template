@@ -1,8 +1,8 @@
-# TypeScript Node Template
+# TypeScript Express Template
 
 ## Purpose
 
-A basic initial setup of Node with TypeScript with a logger.
+A basic initial setup of Express with TypeScript and a logger.
 
 ## How to Use
 
